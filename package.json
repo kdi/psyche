@@ -1,6 +1,6 @@
 {
 	"name" : "psyche",
-	"version" : "0.0.0",
+	"version" : "0.0.1",
 	"author": "kdi",
 	"description": "[WIP] A 3D graph representation of a personality profile",
 	"homepage": "https://github.com/kdi/phyche",
