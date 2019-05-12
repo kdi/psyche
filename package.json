@@ -3,10 +3,10 @@
 	"version" : "0.0.2",
 	"author": "kdi",
 	"description": "[WIP] A 3D graph representation of a personality profile",
-	"homepage": "https://github.com/kdi/phyche",
+	"homepage": "https://github.com/kdi/psyche",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/kdi/phyche.git"
+		"url": "git://github.com/kdi/psyche.git"
 	},
 	"license": "CC-BY-NC-ND-4.0",
 	"licenses": [
