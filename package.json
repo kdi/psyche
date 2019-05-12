@@ -8,10 +8,11 @@
 		"type": "git",
 		"url": "git://github.com/kdi/phyche.git"
 	},
+	"license": "CC-BY-NC-ND-4.0",
 	"licenses": [
 		{
 		"type": "Copyrighted - CC BY-NC-ND",
-		"url": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+		"url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
 		}
 	],
 	"engine" : {
