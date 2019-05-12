@@ -19,6 +19,7 @@
 		"node" : ">=10.x.x"
 	},
 	"dependencies" : {
-		"cloudvisio": "*"
+		"cloudvisio": "*",
+		"pnoi": "*"
 	}
 }
