@@ -15,7 +15,7 @@
 		}
 	],
 	"engine" : {
-		"node" : ">=0.10.x"
+		"node" : ">=10.x.x"
 	},
 	"dependencies" : {
 		"cloudvisio": "*"
